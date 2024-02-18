@@ -1,5 +1,8 @@
 ### Hi there 👋
-An enthusiastic and detail-oriented Front-End Developer with sufficient knowledge of HTML, CSS, SCSS ,Bootstrap and Javascript, as well as libraries such as React and Next 💻
+
+### An enthusiastic and detail-oriented Front-End Developer with sufficient knowledge of HTML, CSS, SCSS ,Bootstrap and Javascript, as well as libraries such as React and Next 💻
+
+I’m currently learning Vue.js 💻👾🤖🦾
 
 <!--
 **ebrubastug/ebrubastug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
