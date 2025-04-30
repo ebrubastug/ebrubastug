@@ -1,8 +1,7 @@
-### Hi there 👋
-
-### An enthusiastic and detail-oriented Front-End Developer with sufficient knowledge of HTML, CSS, SCSS ,Bootstrap and Javascript, as well as libraries such as React and Next 💻
-
-I’m currently learning Vue.js 💻👾🤖🦾
+💻 Passionate Front-End Developer focused on building responsive, user-friendly web interfaces using HTML, CSS, SCSS, Bootstrap, and JavaScript.  
+⚛️ Proficient in modern frameworks like React and Next.js, with a strong emphasis on performance, accessibility, and clean code.  
+🚀 Enjoy working in agile teams, continuously learning new technologies, and delivering solutions that improve user experience.  
+🌱 Currently improving my TypeScript skills and contributing to open-source projects.
 
 <!--
 **ebrubastug/ebrubastug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
